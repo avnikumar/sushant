@@ -1,0 +1,19 @@
+{
+  "name": "singh/sushantproject",
+  "description": "ElasticBeanstalk",
+  "type": "project",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "Singh\\Sushantproject\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Avnish"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.9"
+  }
+}
